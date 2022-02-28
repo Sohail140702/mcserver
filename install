@@ -43,3 +43,4 @@ fi
 echo "> Installing AFK(Away From Keyboard) Script "
 python3 -m pip install bpytop
 echo ""
+
